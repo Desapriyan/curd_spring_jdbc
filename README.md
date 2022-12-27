@@ -1,1 +1,7 @@
-# curd_spring_jdbc
+![post 1](https://user-images.githubusercontent.com/116794427/209649428-0cdad3cb-057a-48ab-9611-580f75cbde59.PNG)
+![post 2](https://user-images.githubusercontent.com/116794427/209649493-6ae31903-72ce-4c33-a17f-d95bf3988cb0.PNG)
+![update](https://user-images.githubusercontent.com/116794427/209649526-2b5a9691-9576-43f0-a60a-15a2084701f9.PNG)
+![update 1](https://user-images.githubusercontent.com/116794427/209649554-f4839d99-9890-4053-baf6-9073571faefd.PNG)
+![GetAll](https://user-images.githubusercontent.com/116794427/209649589-238eb9ba-b775-4320-9f2c-8ace6b6dbbe5.PNG)
+![Delete](https://user-images.githubusercontent.com/116794427/209649647-0afae2f0-4119-4762-a7bf-226a58139567.PNG)
+![deleted 1](https://user-images.githubusercontent.com/116794427/209649674-4d4b6dc6-b5e2-4b3c-ac28-b6528aca8c95.PNG)
